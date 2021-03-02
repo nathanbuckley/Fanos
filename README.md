@@ -2,7 +2,7 @@
 
 :construction: WORK IN PROGRESS :construction:
 
-The PicoFanatron is a [raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/) powered, desk size, soldering fume Fan wit h some added extras. The original goal was to build a Solder fume fan powered via usb and build to take any abuse that comes with living on my desk. I'm clumbsy. 
+The PicoFanatron is a [raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/) powered, desk size, soldering fume Fan with some added extras. The original goal was to build a Solder fume fan powered via USB and build to take any abuse that comes with living on my desk. I'm clumsy.
 The build became... 
 
 ## Specs
@@ -15,11 +15,11 @@ The build became...
 Part | Info 
 -----|--------
 Pico|[raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/)
-screen|128×32 I2C OLED graphic display
-motor driver|   
-3v - 5v Fav |       
+Screen|128×32 I2C OLED graphic display
+Motor Driver|   
+3v - 5v Fan |       
 Carbon filter|  
-push button|    
+Push Button|    
 LED     |      
 Housing |  WEWD and Acrylic  
 
@@ -30,9 +30,9 @@ Housing |  WEWD and Acrylic
 
 
 ## Todo
-> Things I would like to do in futur iterations
+> Things I would like to do in future iterations
 
-- [ ] Design 3D printable top and bottom case 
+- [ ] Design 3D printable top and bottom housing 
 - [ ] Add external temp sensor
 - [ ] Animate splash screen
 - [ ] Improve screen layout
