@@ -1,8 +1,8 @@
-# PicoFanatron
+# FANOS
 
 :construction: WORK IN PROGRESS :construction:
 
-The PicoFanatron is a [raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/) powered, desk size, soldering fume Fan with some added extras. The original goal was to build a Solder fume fan powered via USB and build to take any abuse that comes with living on my desk. I'm clumsy.
+Fanos is a [raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/) powered, desk size, soldering fume Fan with some added extras. The original goal was to build a Solder fume fan powered via USB and build to take any abuse that comes with living on my desk. I'm clumsy.
 The build became... 
 
 ## Specs
@@ -14,14 +14,14 @@ The build became...
 
 Part | Info 
 -----|--------
-Pico|[raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/)
+Pico|[raspberry PI Pico](https://www.raspberrypi.org/documentation/rp2040/getting-started/) or alternative rp2040 board.
 Screen|128×32 I2C OLED graphic display
 Motor Driver|   
 3v - 5v Fan |       
 Carbon filter|  
 Push Button|    
 LED     |      
-Housing |  WEWD and Acrylic  
+Housing |  WEWD and Acrylic  or 3d print 
 
 
 ## Build
